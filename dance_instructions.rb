@@ -5,9 +5,7 @@ def assume_stance
   
   puts plant legs far apart, bend knees slightly and keep posture loose
   
-def skip_step
-  
-  puts #1 
+end
   
 def base_footwork
   
@@ -17,4 +15,3 @@ puts #1 lift right foot
  
  end
  
- puts base_footwork
