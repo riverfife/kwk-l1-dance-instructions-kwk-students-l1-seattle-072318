@@ -8,3 +8,5 @@ puts #1 lift right foot
  puts #3 finish with a small skip_step
  
  end
+ 
+ puts base_footwork
